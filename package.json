@@ -1,0 +1,12 @@
+{
+  "name": "api_v2",
+  "version": "1.0.0",
+  "description": "Api de consultas a the movie db",
+  "main": "app.js",
+  "scripts": {
+    "start":"node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sebastian Gañan",
+  "license": "ISC"
+}
